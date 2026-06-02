@@ -10,7 +10,7 @@ Analisador Sintatico LL(1) da Fase 2)
 - **Disciplina:** Linguagens Formais e Compiladores
 - **Professor:** Frank Coelho de Alcantara
 - **Linguagem de implementacao:** Python
-- **Nome do grupo no Canvas:** RA2-21
+- **Nome do grupo no Canvas:** RA3-21
 
 ### Integrantes (ordem alfabetica)
 

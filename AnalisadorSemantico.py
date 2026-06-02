@@ -45,7 +45,7 @@ from codegen.ast_builder import imprimir_ast
 BANNER = """\
 ============================================================
   Analisador Semântico RPN  —  Fase 3 (LL(1) + Assembly)
-  Grupo RA2-21  —  PUC-PR / Linguagens Formais e Compiladores
+  Grupo RA3-21  —  PUC-PR / Linguagens Formais e Compiladores
 ============================================================
 """
 
